@@ -37,6 +37,7 @@
   html {
     /* 8px / 16px = 0.5 = 50% */
     font-size: 30%;
+    height: 95vh;
   }
 }
 

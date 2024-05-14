@@ -27,6 +27,7 @@ body {
   justify-content: center;
   align-items: center;
   padding-bottom: 10rem;
+  overflow: hidden;
 }
 
 .icon {
