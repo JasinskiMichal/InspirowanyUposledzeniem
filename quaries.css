@@ -20,7 +20,7 @@
 @media (max-width: 59em) {
   html {
     /* 8px / 16px = 0.5 = 50% */
-    font-size: 50%;
+    font-size: 35%;
   }
 }
 
@@ -37,5 +37,25 @@
   html {
     /* 8px / 16px = 0.5 = 50% */
     font-size: 30%;
+  }
+}
+
+@media (max-width: 30em) {
+  html {
+    /* 8px / 16px = 0.5 = 50% */
+    font-size: 25%;
+  }
+}
+
+@media (max-width: 25em) {
+  html {
+    /* 8px / 16px = 0.5 = 50% */
+    font-size: 20%;
+  }
+}
+@media (max-width: 20em) {
+  html {
+    /* 8px / 16px = 0.5 = 50% */
+    font-size: 15%;
   }
 }
